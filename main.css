@@ -1,0 +1,89 @@
+
+body{
+	background-color: #D9D9D9);
+  padding: 0px;
+
+  font-family: 'Raleway', sans-serif;
+  font-size: 100%;
+  line-height: 1.5;
+  text-align: left;
+
+}
+div{
+	 box-shadow: 0 5px 15px rgba(0,0,0,1);
+
+}
+
+.contact{
+	width: 96%;
+	 
+  background:#9C27B0;
+  padding: 1% 1%;
+  margin:1%;
+  border-radius: 5px;}
+
+.profile{ 
+	width: 96%;
+	 
+  background:#673AB7;
+  padding: 1% 1%;
+  margin:1%;
+  border-radius: 5px;}
+.education{ 
+	width: 96%;
+  background: #3F51B5;
+  padding: 1% 1%;
+  margin:1%;
+   
+  border-radius: 5px;}
+
+.skills{
+	  width: 96%;
+  background: #2196F3;
+  padding: 1% 1%;
+  margin:1%;
+   
+  border-radius: 5px;
+}
+.projects{
+	width: 96%;
+  background:#80DEEA;
+   
+  padding: 1% 1%;
+  margin:1%;
+  border-radius: 5px;}
+.publications{
+	width: 96%;
+  background: #00BCD4;
+  padding: 1% 1%;
+   
+  margin:1%;
+  border-radius: 5px;
+
+}
+.positions{
+	width: 96%;
+  background:#009688;
+  padding: 1% 1%;
+   
+  margin:1%;
+  border-radius: 5px;
+}
+.certifications{
+	 width: 96%;
+  background:#4CAF50;
+  padding: 1% 1%;
+  margin:1%;
+   
+  border-radius: 5px;
+}
+.personal{
+  background-color:#8BC34A ;
+  height: 150px;
+   
+  border-radius: 5px;
+  padding: 12.5px 25px;
+margin:1%;}
+footer{
+	padding:1%;
+}
